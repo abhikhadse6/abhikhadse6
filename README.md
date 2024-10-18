@@ -15,7 +15,7 @@
 
 - 👨🏽‍💻 I’m a MCA Student ;
 - 💼 I’ve completed my Bachelor's degree in Bachelor of Commerce ;
-- 🤔 My interests are with Web App Development 🖥️, data analyst 📊,Data Science 📊, machine learning, Cricket 🏏, Space 🚀, etc..;
+- 🤔 My interests are with Web App Development 🖥️, Data Analyst 📊,Data Science 📊, machine learning, Cricket 🏏, Space 🚀, etc..;
 - 🎬 I love watching movies 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 Please email via Abhishekkhadse06@gmail.com or ping me on [LinkedIn](https://www.linkedin.com/in/abhishek-khadse-abhi06/) to reach me;
