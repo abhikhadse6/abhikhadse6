@@ -1,4 +1,4 @@
-## Hi there, I'm [Abhishek]! <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width=35 height=35>
+## Hi there, I'm Abhishek! <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width=35 height=35>
 
 <p>
   <em>
@@ -15,7 +15,7 @@
 
 - 👨🏽‍💻 I’m a MCA Student ;
 - 💼 I’ve completed my Bachelor's degree in Bachelor of Commerce ;
-- 🤔 My interests are with Web App Development 🖥️, Data Analyst 📊,Data Science 📊, machine learning, Cricket 🏏, Space 🚀, etc..;
+- 🤔 My interests are with Data Analyst 📊, Web App Development 🖥️, Cricket 🏏, Space 🚀, etc..;
 - 🎬 I love watching movies 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 Please email via Abhishekkhadse06@gmail.com or ping me on [LinkedIn](https://www.linkedin.com/in/abhishek-khadse-abhi06/) to reach me;
@@ -24,6 +24,7 @@
 
 ### Worked with 
 
+<code><img height="40" src="https://its.ucr.edu/sites/default/files/styles/form_preview/public/powerbi%20logo%201.png?itok=yYXO-S-V" title="PowerBI"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="python"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="javascript"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" title="html5"></code>
