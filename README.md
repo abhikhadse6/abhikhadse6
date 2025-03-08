@@ -2,7 +2,7 @@
 
 <p>
   <em>
-    A <b>Software Engineer</b> <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Medal.gif" width=20 height=20> and a passionate self-taught <b>programmer</b> <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width=35 height=25> from Nagpur, India.
+    A <b>Data Analyst</b> <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Medal.gif" width=20 height=20> and a passionate self-taught <b>programmer</b> <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width=35 height=25> from Nagpur, India.
   </em>
  </p>
 
@@ -13,43 +13,33 @@
   
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m a MCA Student ;
-- 💼 I’ve completed my Bachelor's degree in Bachelor of Commerce ;
-- 🤔 My interests are with Data Analyst 📊, Web App Development 🖥️, Cricket 🏏, Space 🚀, etc..;
+- 👨🏽‍💻 I’m a MCA Student 
+- 💼 I’ve completed my Bachelor's degree in Bachelor of Commerce 
+- 🧑‍🎓 recently, I done data analyst certification couse form upgrad  
+- 🤔 My interests are with Data Analyst 📊, Web App Development 🖥️, Cricket 🏏, Space 🚀, etc..
 - 🎬 I love watching movies 
-- 💬 Ask me about anything, I am happy to help;
+- 💬 Ask me about anything, I am happy to help
 - 📫 Please email via Abhishekkhadse06@gmail.com or ping me on [LinkedIn](https://www.linkedin.com/in/abhishek-khadse-abhi06/) to reach me;
 <br/> 
 </em>
 
 ### Worked with 
 
+<code><img height="40" src="https://media.istockphoto.com/id/1257312690/vector/analytics-bar-graph-icon.jpg?s=612x612&w=0&k=20&c=3u12q178en00xfxgjwz3xRaTGwrGmWFRdDc3HbJOGHw="></code>
+<code><img height="40" src="https://www.svgrepo.com/show/303251/mysql-logo.svg" title="MySQL"></code>
+<code><img height="40" src="https://1000logos.net/wp-content/uploads/2022/03/Tableau-Logo.png" title="Tableau"></code>
 <code><img height="40" src="https://its.ucr.edu/sites/default/files/styles/form_preview/public/powerbi%20logo%201.png?itok=yYXO-S-V" title="PowerBI"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="python"></code>
+<code><img height="40" src="https://github.com/user-attachments/assets/740a91c5-f231-4baf-9122-9cfe73d46e65" title="Excel"></code>
+<code><img height="40" src="https://github.com/user-attachments/assets/fec1aa30-0f6c-45c1-9ff9-86d63afc64f8" title="office"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="javascript"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" title="html5"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg" title="php"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-plain-wordmark.svg" title="jquery"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg" title="C"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" title="css3"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" title="laravel"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" title="java"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" title="typescript"></code>
-<code><img height="40" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" title="flask"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/protractor/protractor-plain.svg" title="protractor"></code>
-<!-- <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" title="react"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-plain.svg" title="angular"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" title="mongodb"></code> -->
-<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" title="django"></code>
-<!-- <code><img height="40" src="https://res.cloudinary.com/practicaldev/image/fetch/s--ipV6F4tM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/serverless/assets/master/Icon/Framework/PNG/Serverless_Framework-icon01.png" title="serverless"></code> -->
-<!-- <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" title="node.js"></code> -->
-<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" title="mysql"></code>
-<code><img height="40" src="https://pbs.twimg.com/profile_images/1235868806079057921/fTL08u_H_400x400.png" title="spring-boot"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" title="express.js"></code>
+<code><img height="40" src="https://www.cdnlogo.com/logos/f/50/flask.svg" title="flask"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" title="git"></code>
-<code><img height="40" src="https://cdn.worldvectorlogo.com/logos/aws-rds.svg" title="aws-rds"></code>
-<!-- <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" title="linux"></code> -->
-<!-- <code><img height="40" src="https://cdn.worldvectorlogo.com/logos/aws-lambda-1.svg" title="aws-lambda"></code> -->
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png" title="sklearn"></code>
 
 <!-- ### GitHub Stats
